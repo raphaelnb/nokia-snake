@@ -1,5 +1,5 @@
-#Nokia 3310 Snake Game
+# Nokia 3310 Snake Game
 
-##Jogo clássico da cobrinha usando Javascript
+## Jogo clássico da cobrinha usando Javascript
 
-###aula disponível no freeCodeCamp
+### aula disponível no freeCodeCamp
